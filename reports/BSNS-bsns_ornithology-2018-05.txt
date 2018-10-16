@@ -1,0 +1,55 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 214
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "quetzal bird" ; Times: 2
+	Query: "ephippiorhynchus skull" ; Times: 1
+	Query: "gilded flicker" ; Times: 2
+	Query: "lewis woodpecker feathers" ; Times: 1
+	Query: "gbifdatasetid:147e1b93-9e2d-43a2-a34d-18738edeaa24" ; Times: 2
+	Query: "Carolina Parakeet" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1178 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+
+
+End of report.
