@@ -1,0 +1,90 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 137
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Canada ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-11 ; Times: 7
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 5
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-05 ; Times: 9
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "passenger pigeon" ; Times: 5
+	Query: "atlantic puffin" ; Times: 1
+	Query: "albino robin" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 11
+	Query: "ivory-billed woodpecker" ; Times: 5
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "ruddy turnstone vntype:specimen year &gt;= 1800 year &lt;= 1900 month &gt;= 5 month &lt;= 5 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 12
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1892 download events in this period)
+Total number of records downloaded: 100
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 9
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
