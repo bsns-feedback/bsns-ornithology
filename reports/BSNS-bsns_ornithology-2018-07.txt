@@ -1,0 +1,90 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 44
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 8
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-24 ; Times: 8
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "eskimo curlew" ; Times: 1
+	Query: "hen harrier" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "semipalmata florida" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "Serinus xanthopygius" ; Times: 4
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Apus affinis kenya" ; Times: 1
+	Query: "genus:colaptes family:picidae country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "Ivory-billed woodpecker" ; Times: 4
+	Query: "blue cheeked bee eater" ; Times: 1
+	Query: "Ivory-billed Woodpecker" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 977 download events in this period)
+Total number of records downloaded: 81
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Haemorhous purpureus" ; Times: 1
+	Query: "Leiothlypis celata" ; Times: 2
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "genus:colaptes family:picidae country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Conuropsis carolinensis vntype:specimen" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "Ivory-billed woodpecker" ; Times: 1
+
+
+End of report.
