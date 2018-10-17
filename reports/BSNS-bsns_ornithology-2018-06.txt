@@ -1,0 +1,111 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 5
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eskimo curlew" ; Times: 1
+	Query: "eskimo curlew vntype:specimen" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "kori bustard" ; Times: 1
+	Query: "red partridge" ; Times: 1
+	Query: "country:&#34;mexico&#34; institutioncode:BSNS" ; Times: 1
+	Query: "blue grouse" ; Times: 2
+	Query: "fire belly" ; Times: 1
+	Query: "numenius borealis" ; Times: 4
+	Query: "kakapo" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1169 download events in this period)
+Total number of records downloaded: 294
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 32
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "snowy owl" ; Times: 2
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "fire belly" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Leiothlypis peregrina" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "white tail deer" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+
+
+End of report.
