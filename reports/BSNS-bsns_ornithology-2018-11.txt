@@ -1,0 +1,83 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-20 ; Times: 3
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tachymarptis melba" ; Times: 5
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "andes condor" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "circus hudsonicus" ; Times: 1
+	Query: "study skins bird" ; Times: 1
+	Query: "goura scheepmakeri" ; Times: 3
+	Query: "alopochen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1719 download events in this period)
+Total number of records downloaded: 134
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 4
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "northern fulmar" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Leiothlypis peregrina" ; Times: 2
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "black-capped vireo" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "penguin" ; Times: 1
+
+
+End of report.
