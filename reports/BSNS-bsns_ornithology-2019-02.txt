@@ -1,0 +1,85 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-04 ; Times: 4
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "passenger pigeon" ; Times: 3
+	Query: "pavo mount male vntype:specimen basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "Crax rubra México" ; Times: 1
+	Query: "Woodhouse’s Scrub-Jay" ; Times: 1
+	Query: "genus:Microhierax (skel OR skeleton)" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "long billed pipit" ; Times: 1
+	Query: "Amazona auropalliata" ; Times: 2
+	Query: "passenger pigeon vntype:specimen" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "tachymarptis" ; Times: 1
+	Query: "wings barn owl" ; Times: 1
+	Query: "ivory-billed woodpecker" ; Times: 2
+	Query: "Ivory-billed Woodpecker" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1227 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Buteo AND platypterus AND massing" ; Times: 1
+	Query: "Accipiter AND gentilis AND massing" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+
+
+End of report.
