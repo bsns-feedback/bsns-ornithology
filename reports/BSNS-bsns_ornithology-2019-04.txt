@@ -1,0 +1,55 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passenger pigeon" ; Times: 4
+	Query: "county:&#34;san bernardino&#34; recordedby:thurber" ; Times: 3
+	Query: "Black bird with a white patch on tail" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dodo bird" ; Times: 1
+	Query: "bob white quail" ; Times: 1
+	Query: "&#34;bob white quail&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1263 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "pitta" ; Times: 1
+
+
+End of report.
