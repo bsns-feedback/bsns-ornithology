@@ -1,0 +1,78 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 248
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 8
+	Date: 2019-05-22 ; Times: 13
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "centurus uropygialis" ; Times: 2
+	Query: "Florida scrub-jay" ; Times: 14
+	Query: "Piping plover" ; Times: 6
+	Query: "gbifdatasetid:147e1b93-9e2d-43a2-a34d-18738edeaa24" ; Times: 1
+	Query: "gilded flicker" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 1
+	Query: "Ring-neck Pheasant" ; Times: 1
+	Query: "vntype:specimen genus:Micronisus" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 940 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:pitta" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "Ara macao vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gilded flicker" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Vireo bellii" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+
+
+End of report.
