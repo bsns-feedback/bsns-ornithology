@@ -1,0 +1,105 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 437
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 65
+	Country: United Kingdom ; Times: 13
+	Country: Argentina ; Times: 1
+	Country: Peru ; Times: 9
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 7
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 5
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 11
+	Date: 2019-08-14 ; Times: 9
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 15
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-22 ; Times: 9
+	Date: 2019-08-30 ; Times: 13
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Ramphastos vitellinus" ; Times: 1
+	Query: "Ramphastos swainsonii" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "gbifdatasetid:147e1b93-9e2d-43a2-a34d-18738edeaa24" ; Times: 3
+	Query: "Amblyospiza albifrons" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 7
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Buteo augur" ; Times: 1
+	Query: "Anthropoides virgo" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "Tockus erythrorhynchus" ; Times: 1
+	Query: "Antrostomus carolinensis" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "Leiothlypis celata" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Ardeotis kori" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Rhinoptilus chalcopterus" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 11
+	Query: "amazona auropalliata" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "eremita" ; Times: 2
+	Query: "Vireo bellii" ; Times: 3
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Nyctale" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 3
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 13
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Ivory billed woodpecker" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1034 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "crax rubra" ; Times: 4
+	Query: "Anser albifrons" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 1
+	Query: "Mountain Quail" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "genus:Pharomachrus country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
