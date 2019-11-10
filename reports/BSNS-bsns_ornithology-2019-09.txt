@@ -1,0 +1,82 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-28 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-06 ; Times: 25
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "raphus" ; Times: 2
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 7
+	Query: "Coccyzus americanus" ; Times: 5
+	Query: "Black-throated Blue Warbler hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:147e1b93-9e2d-43a2-a34d-18738edeaa24" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Apteryx" ; Times: 1
+	Query: "Pinguinus" ; Times: 1
+	Query: "Pezoporus flaviventris" ; Times: 1
+	Query: "genus:Aptenodytes sex:Female" ; Times: 1
+	Query: "duck wings" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1073 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Black-throated Blue Warbler hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "family:cracidae" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "pitta" ; Times: 1
+
+
+End of report.
