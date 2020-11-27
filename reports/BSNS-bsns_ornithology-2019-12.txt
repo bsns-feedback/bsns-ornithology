@@ -1,0 +1,68 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "extended wings" ; Times: 4
+	Query: "hen harrier" ; Times: 1
+	Query: "Ivory Billed Woodpecker" ; Times: 1
+	Query: "Thryomanes bewickii sonoma california" ; Times: 1
+	Query: "carolina parakeet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "polyborinae" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "vntype:specimen locality:mayport county:&#34;Duval&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "raptor wings" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "hen harrier" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
