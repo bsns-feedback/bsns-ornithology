@@ -1,0 +1,103 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-22 ; Times: 4
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-24 ; Times: 11
+	Date: 2019-10-11 ; Times: 5
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "manitoba hudsonicus poecile" ; Times: 1
+	Query: "Coccyzus americanus 1974" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "white genus:Ectopistes" ; Times: 5
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Baeolophus inornatus California alameda county" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 1
+	Query: "Aphelocoma coerulescens 2017" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "colinus virginianus taylori" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "bsns maryland" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1308 download events in this period)
+Total number of records downloaded: 159
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "colinus virginianus floridanus" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "colinus virginianus taylori" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Mississippi&#34;" ; Times: 1
+
+
+End of report.
