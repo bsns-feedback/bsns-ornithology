@@ -1,0 +1,105 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 291
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 84
+	Country: Sweden ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 29
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 9
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 3
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-21 ; Times: 39
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-03 ; Times: 13
+	Date: 2020-04-08 ; Times: 5
+	Date: 2020-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Brown hornbill" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Leiothlypis celata" ; Times: 8
+	Query: "Buteo augur" ; Times: 4
+	Query: "Cygnus olor" ; Times: 10
+	Query: "BLACK FRANCOLIN" ; Times: 2
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Crax rubra" ; Times: 3
+	Query: "Psalidoprocne pristoptera" ; Times: 7
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Tachymarptis aequatorialis" ; Times: 7
+	Query: "pavo cristatus" ; Times: 1
+	Query: "WHITE-WINGED DUCK" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "soil animals" ; Times: 2
+	Query: "Drepanornis albertisi" ; Times: 17
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "Grus antigone" ; Times: 5
+	Query: "vntype:specimen recordedby:Picchi" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1171 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 3
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
