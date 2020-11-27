@@ -1,0 +1,84 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 129
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-26 ; Times: 5
+	Date: 2019-11-08 ; Times: 6
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 7
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "Psaltriparus Oregon. Jackson County." ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 4
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "yellow rail" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 4
+	Query: "new york falcipennis canadensis" ; Times: 1
+	Query: "Sharp-tailed grouse" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 5
+	Query: "Aphelocoma coerulescens 2017" ; Times: 5
+	Query: "new york falcipennis canadensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "passenger pigeon" ; Times: 4
+	Query: "locality:delevan" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 79
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 6
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+
+
+End of report.
