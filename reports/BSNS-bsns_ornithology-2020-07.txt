@@ -1,0 +1,69 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 96
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Peru ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "genus:Vultur" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "institutioncode:bsns Psittacidae" ; Times: 5
+	Query: "meadowlarks" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 17
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Peru ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "vultur" ; Times: 1
+
+
+End of report.
