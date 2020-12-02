@@ -1,0 +1,73 @@
+Report for Institution Code BSNS, Resource bsns_ornithology
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 3
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-06 ; Times: 7
+	Date: 2020-11-02 ; Times: 10
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 1
+	Query: "polyborinae vntype:specimen" ; Times: 5
+	Query: "Falco naumanni" ; Times: 2
+	Query: "scientificname:Laterallus jamaicensis" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 1
+	Query: "numenius tenuirostris" ; Times: 1
+	Query: "genus:raphus" ; Times: 3
+	Query: "numenius borealis" ; Times: 1
+	Query: "genus:raphus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "kakapo" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "polyborinae" ; Times: 1
+	Query: "pharomachrus mocinno study skin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 842 download events in this period)
+Total number of records downloaded: 62
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-25 ; Times: 2
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "polyborinae vntype:specimen" ; Times: 1
+	Query: "limnothlypis swainsonii (sex)" ; Times: 1
+	Query: "Lapland longspur" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "pharomachrus mocinno study skin" ; Times: 1
+
+
+End of report.
